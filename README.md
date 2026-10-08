@@ -6,6 +6,16 @@ Nutrify is a prototype nutrition question-and-answer application designed to pro
 
 The project explores how multiple specialized knowledge sources can work together within a modular software architecture to support nutrition-related questions and answers.
 
+## Team
+
+This project was completed collaboratively as part of a university software architecture and design course.
+
+* Yash Patolia
+* Justin Joseph Kwinecki
+* Christina Zhang
+* Muhammad Huzaifah
+* Nathan Joshua Hum
+
 ## Architecture
 
 Nutrify was designed around the **Blackboard architectural pattern**, which provides a shared workspace for independent knowledge sources to contribute information toward solving a problem.
